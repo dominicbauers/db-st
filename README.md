@@ -1,3 +1,6 @@
 # db-st
-## MY Build of Suckless DWM
-This is pretty much stock DWM with a few tweaks applied best to suit my workflow, single tagset patch to work best with my dual monitor setup as well as changing the number of tags from 9 to 2, one tag per each monitor.
+## My Build of Suckless's Simple Terminal with a few tweaks made for my preference.
+### Patches added:
+  I added/applied three patches: alpha, clipboard, scrollback, and dracula. Alpha to enable translucent windows, clipboard to enable copy and paste, scrollback to enable scrollback with [Shift + PageUP or PageDown], and dracula for a color scheme.
+### Other Tweaks made:
+  I changed the font size because default was way too small.
